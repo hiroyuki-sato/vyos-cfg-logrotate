@@ -1,0 +1,4 @@
+type: u32
+help: logrotate count
+syntax:expression: ($VAR(@) >=1 ) ; "Log files are rotated count"
+val_help: u32: > 1; Log files are rotated count

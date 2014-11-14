@@ -1,0 +1,3 @@
+help: log interval
+type: txt
+allowed: echo "daily weekly monthly yearly"
